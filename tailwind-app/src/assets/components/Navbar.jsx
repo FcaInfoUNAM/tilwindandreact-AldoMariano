@@ -1,5 +1,5 @@
 import React from 'react';
-import tiburon from './tiburon.png';
+import ClubPumas from './ClubPumas.png';
 
 function Navbar() {
   return (
