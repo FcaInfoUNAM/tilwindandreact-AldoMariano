@@ -3,7 +3,7 @@ import ClubPumas from './ClubPumas.png';
 
 function Navbar() {
   return (
-    <nav className="bg-orange-500 text-white p-4 flex justify-between items-center">
+    <nav className="bg-blue-500 text-white p-4 flex justify-between items-center">
       <div>
         <img src={ClubPumas} alt="Logo" className="h-10 w-auto" /> 
       </div>
